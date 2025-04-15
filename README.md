@@ -27,4 +27,8 @@ This is an advanced robotics project aimed at:
 This project is for **educational and experimental purposes only**. The use of any flame-based system must be done **in a secure environment**, with all necessary safety precautions.  
 **Never** use this robot in uncontrolled areas or without supervision.
 
-## Some images
+## 📸 Photos
+
+![first](asset/IMG_0714.jpg)
+
+![second](asset/IMG_0721.jpg)
